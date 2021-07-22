@@ -1,4 +1,5 @@
-A flipkart product tracker
+A flipkart product tracker:
+
 Follow the steps to use this product tracking package
 
 1. Install dependencies given in requirements.txt
